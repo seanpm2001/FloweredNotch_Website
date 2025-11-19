@@ -1,0 +1,1 @@
+🔳️🌸️🌐️ The official source repository for the website of the FloweredNotch project, MalNotch's arch (btw) enemy, the software that places custom SFW flower patterns over the portion of the screen that is blocked by hardware notches. You won't see it (if your device has a hardware notch) but others will (if you share it)
